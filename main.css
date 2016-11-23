@@ -1,7 +1,7 @@
 body{
   width:1920px;
   height:1700px;
-  padding-left: 0px;
+
   margin: auto;
   background-image: url(img/bg_content.png);
   background-repeat:no-repeat;
@@ -36,7 +36,7 @@ body{
 }
 .cover{
 
-  margin-left: 432px;
+  padding-left: 432px;
 }
 .word{
   margin-left: 0px;
