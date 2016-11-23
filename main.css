@@ -2,9 +2,10 @@ body{
   width:1920px;
   height:1700px;
   padding-left: 0px;
-  margin-left: 0px;
+  margin: auto;
   background-image: url(img/bg_content.png);
   background-repeat:no-repeat;
+  background-position: center 0px;
 
 }
 .logo{
